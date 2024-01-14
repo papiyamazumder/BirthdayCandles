@@ -1,0 +1,14 @@
+C:\Projects\C# Projects\Birthday_Candles\Birthday_Candles\bin\Debug\net8.0\Birthday_Candles.exe
+C:\Projects\C# Projects\Birthday_Candles\Birthday_Candles\bin\Debug\net8.0\Birthday_Candles.deps.json
+C:\Projects\C# Projects\Birthday_Candles\Birthday_Candles\bin\Debug\net8.0\Birthday_Candles.runtimeconfig.json
+C:\Projects\C# Projects\Birthday_Candles\Birthday_Candles\bin\Debug\net8.0\Birthday_Candles.dll
+C:\Projects\C# Projects\Birthday_Candles\Birthday_Candles\bin\Debug\net8.0\Birthday_Candles.pdb
+C:\Projects\C# Projects\Birthday_Candles\Birthday_Candles\obj\Debug\net8.0\Birthday_Candles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Projects\Birthday_Candles\Birthday_Candles\obj\Debug\net8.0\Birthday_Candles.AssemblyInfoInputs.cache
+C:\Projects\C# Projects\Birthday_Candles\Birthday_Candles\obj\Debug\net8.0\Birthday_Candles.AssemblyInfo.cs
+C:\Projects\C# Projects\Birthday_Candles\Birthday_Candles\obj\Debug\net8.0\Birthday_Candles.csproj.CoreCompileInputs.cache
+C:\Projects\C# Projects\Birthday_Candles\Birthday_Candles\obj\Debug\net8.0\Birthday_Candles.dll
+C:\Projects\C# Projects\Birthday_Candles\Birthday_Candles\obj\Debug\net8.0\refint\Birthday_Candles.dll
+C:\Projects\C# Projects\Birthday_Candles\Birthday_Candles\obj\Debug\net8.0\Birthday_Candles.pdb
+C:\Projects\C# Projects\Birthday_Candles\Birthday_Candles\obj\Debug\net8.0\Birthday_Candles.genruntimeconfig.cache
+C:\Projects\C# Projects\Birthday_Candles\Birthday_Candles\obj\Debug\net8.0\ref\Birthday_Candles.dll
